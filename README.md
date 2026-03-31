@@ -1,4 +1,4 @@
-# Kesimpulan Tugas 4, 5 dan 6
+# Kesimpulan Tugas
 
 Rangkaian tugas ini membahas beberapa konsep penting dalam pemrograman Python, mulai dari pengolahan data dasar hingga penggunaan library untuk analisis data.
 
